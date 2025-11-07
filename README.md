@@ -51,7 +51,3 @@ js-fundamentals/
 ├─ 10-classes-methods/
 └─ 11-typescript-vs-js/
 
-
-├─ 09-functions/
-├─ 10-classes-methods/
-└─ 11-typescript-vs-js/
