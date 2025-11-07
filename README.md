@@ -33,12 +33,13 @@ Each topic includes:
 
 ## 🗂️ Project Structure
 
+```
 js-fundamentals/
 ├─ README.md
 ├─ 01-variables/
-│ ├─ README.md
-│ ├─ examples.js
-│ └─ exercises.md
+│  ├─ README.md
+│  ├─ examples.js
+│  └─ exercises.md
 ├─ 02-data-types/
 ├─ 03-concatenation/
 ├─ 04-objects-arrays/
@@ -46,6 +47,11 @@ js-fundamentals/
 ├─ 06-logical-operators/
 ├─ 07-conditionals/
 ├─ 08-loops/
+├─ 09-functions/
+├─ 10-classes-methods/
+└─ 11-typescript-vs-js/
+
+
 ├─ 09-functions/
 ├─ 10-classes-methods/
 └─ 11-typescript-vs-js/
