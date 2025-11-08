@@ -1,0 +1,19 @@
+{
+  "name": "js_fundamental",
+  "version": "1.0.0",
+  "description": "A practical guide to learning and mastering the **core concepts of JavaScript** — from variables and data types to functions, classes, and TypeScript comparison.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcenioIsep/JS_FUNDAMENTAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcenioIsep/JS_FUNDAMENTAL/issues"
+  },
+  "homepage": "https://github.com/ArcenioIsep/JS_FUNDAMENTAL#readme"
+}
